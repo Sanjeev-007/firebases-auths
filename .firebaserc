@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "newfirst-project": {
+      "hosting": {
+        "newmyapp": [
+          "newfirst-project"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "newfirst-project"
+  }
+}
